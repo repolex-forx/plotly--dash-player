@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "dash-player",
+  "versions": [
+    {
+      "commit": "d663df9ccbb5c5c009ce77d1f01542d92a133ad5",
+      "tag": "",
+      "parsed_at": "2026-11-07T01:31:33.481754+00:00"
+    }
+  ]
+}
